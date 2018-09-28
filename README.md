@@ -1,0 +1,3 @@
+# Next openSUSE Landing Page
+
+In progress...
